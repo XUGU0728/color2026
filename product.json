@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Transformative Teal",
+    "image": "img/img_01.png",
+    "category": "2026 color",
+    "desc": "#2B6E6D"
+  },
+  {
+    "id": 2,
+    "title": "Electric Fuchsia",
+    "image": "img/img_02.png",
+    "category": "2026 color",
+    "desc": "#D32DA6"
+  },
+  {
+    "id": 3,
+    "title": "Blue Aura",
+    "image": "img/img_03.png",
+    "category": "2026 color",
+    "desc": "#7EA8C4"
+  },
+  {
+    "id": 4,
+    "title": "Amber Haze",
+    "image": "img/img_04.png",
+    "category": "2026 color",
+    "desc": "#CFA938"
+  },
+  {
+    "id": 5,
+    "title": "Jelly Mint",
+    "image": "img/img_05.png",
+    "category": "2026 color",
+    "desc": "#8FE1D8"
+  }
+]
